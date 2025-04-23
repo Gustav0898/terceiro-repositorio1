@@ -1,0 +1,13 @@
+
+
+/* Tema escuro */
+.dark-theme {
+  background-color: #121212;
+  color: #f0f0f0;
+}
+.dark-theme a, .dark-theme h1, .dark-theme h2, .dark-theme h3 {
+  color: #f0f0f0;
+}
+.dark-theme header, .dark-theme footer {
+  background-color: #1e1e1e;
+}
